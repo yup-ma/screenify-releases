@@ -16,7 +16,7 @@ This repository hosts downloadable installers and update packages for Screenify.
 
 ## How to install on macOS
 
-1. Open the [latest release](/releases/latest).
+1. Open the [latest release](https://github.com/yup-ma/screenify-releases/releases/latest).
 2. Under **Assets**, download the `.dmg` file.
 3. Open the downloaded DMG and drag **Screenify** into **Applications**.
 4. Launch Screenify from your Applications folder.
@@ -31,7 +31,7 @@ A Windows version of Screenify is **coming soon**. When available, its `.exe` in
 
 Each version has its own GitHub Release, tagged with a version such as `v1.0.0` or `v1.0.1`. The files attached to a release belong to that version.
 
-**[View all Screenify releases](/releases)**
+**[View all Screenify releases](https://github.com/yup-ma/screenify-releases/releases)**
 
 ---
 
